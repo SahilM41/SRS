@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sahil Mulani 
+An ambitious and energetic person . Currently seeking a professional career that can utilize my potential and
+knowledge which ensure professional and personal growth 
+
+sahilmulani101@gmail.com 7710822262 
+
+Kalyan, India linkedin.com/in/sahilmulani 
+
+github.com/SahilM41 
+
+EDUCATION 
+
+Bachelor of Engineering (CS) 
+Anjuman-I-Islam's Kalsekar Technical Campus 
+2018 - Present,  
+
+Secondary Education (HSC) 
+L.D Sonawane Junior College 
+2016 - 2018,  
+
+High School (SSC) 
+St Mary's High School 
+2015 - 2016,  
+
+MAJOR PROJECTS 
+Quality Education and Books Prediction 
+
+Using HTML ,CSS , JavaScript ,Flask , Machine Learning , MySQL 
+
+This Website is useful for students to find study materials and to
+calculate their marks and predict performance also it has machine
+learning model to predict books 
+
+E-commerce Website 
+Using HTML , CSS , JavaScript , PHP and Mysql database 
+
+In this project we used curd operation and also some javascript
+libraries and bootstrap 
+
+Attendance Management System using Face Detection 
+Using Python and libraries like Pandas , Opencv 
+
+This Application train the model using the images and details of
+students , and detects the face of student and marks the attandance
+in excel file with date and time 
+
+SKILLS 
+
+Web Development Database Management 
+
+Object Oriented Programming Machine Learning 
+
+Django 
+
+CERTIFICATES 
+Siit Certificate Course In C & C++ (12/2018 - 01/2019) 
+
+LANGUAGES 
+SQL 
+Limited Working Proficiency 
+
+C++ 
+Limited Working Proficiency 
+
+HTML 
+Professional Working Proficiency 
+
+CSS 
+Professional Working Proficiency 
+
+Python 
+Professional Working Proficiency 
+
+mailto:sahilmulani101@gmail.com
+https://www.linkedin.com/in/sahilmulani
+https://github.com/SahilM41
+
